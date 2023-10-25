@@ -1,0 +1,5 @@
+bootstrap.servers=<ADDRESS>
+security.protocol=SASL_SSL
+sasl.mechanisms=PLAIN
+sasl.username=<KEY> 
+sasl.password=<SECRET>

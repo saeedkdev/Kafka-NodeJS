@@ -1,0 +1,15 @@
+{
+  "name": "Kafka-NodeJS-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "consumer": "node consumer.js kafka.properties",
+    "producer": "node producer.js kafka.properties"
+  },
+  "author": "SKDEV",
+  "license": "ISC",
+  "dependencies": {
+    "node-rdkafka": "^2.17.0"
+  }
+}
